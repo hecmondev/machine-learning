@@ -1,0 +1,1 @@
+# Just an app to practice machine learning algorithm
